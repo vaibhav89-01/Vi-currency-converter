@@ -1,0 +1,26 @@
+{
+  "name": "vi-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package for currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vaibhav89-01/vi-currency-converter.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Vaibhav Pimpalkar",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/vaibhav89-01/vi-currency-converter/issues"
+  },
+  "homepage": "https://github.com/vaibhav89-01/vi-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
